@@ -1,0 +1,36 @@
+body{
+    background-image:url("boundsitebackgroundimage.jpg");
+}
+.container{
+    padding: 2%;
+}
+form{
+
+border-radius: 0%;
+border-style: groove;
+border-color: rgb(46, 46, 46);
+background-image:url("boundsitebackgroundimage.jpg");
+
+}
+.form-group{
+    color: #000000;
+    font-weight: bolder;
+}
+ .navbar{
+    background-color: #303030;
+
+} 
+ .nav-link{
+    font-weight: bolder;
+    color: #825D66;
+}
+.navbar-brand{
+    color: #76A1A9;
+} 
+.table{
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    color:blanchedalmond
+}
